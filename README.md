@@ -24,7 +24,9 @@ data storage in a database.
 - This project aims to develop a seizure detection system using convolutional neural networks (CNN) trained on EEG data. Additionally, it employs Grad-CAM to generate heatmaps highlighting important regions in the EEG signals for improved interpretability and understanding of seizure detection.
 
 ## Internship Experience 
-- NeST Cyber Campus
+- NeST Cyber Campus- Completed a 10-day internship in IoT at NeST Cyber Campus, gaining hands-on
+experience and knowledge in the field of Internet of Things (IoT).
+  
 
 
 

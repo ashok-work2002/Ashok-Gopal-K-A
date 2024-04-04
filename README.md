@@ -30,3 +30,4 @@ experience and knowledge in the field of Internet of Things (IoT).
 
 ## How to Reach Me
 *   ✉️   [ashokgopal2002@gmail.com](mailto:ashokgopal2002@gmail.com)
+*   https://www.linkedin.com/in/ashok-gopal/

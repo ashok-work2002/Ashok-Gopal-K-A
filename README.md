@@ -1,5 +1,4 @@
 # Hi 👋 I'm Ashok Gopal K A
-================================
 
 Front end developer
 -------------------

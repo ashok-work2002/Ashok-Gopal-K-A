@@ -2,7 +2,7 @@
 
 Front end developer
 -------------------
-## About me
+## About me :technologist: 
 I'm passionate about coding, learning and exploring new web technologies. Constantly seeking to expand my skill set, I thrive on the challenges of staying ahead in this ever-evolving field. With a commitment to innovation and a love for problem-solving, I'm driven to create impactful solutions in the digital world.
 
 ## Skills

@@ -28,8 +28,5 @@ data storage in a database.
 experience and knowledge in the field of Internet of Things (IoT).
   
 
-
-
-
-
-*   ✉️  You can contact me at [ashokgopal2002@gmail.com](mailto:ashokgopal2002@gmail.com)
+## How to Reach Me
+*   ✉️   [ashokgopal2002@gmail.com](mailto:ashokgopal2002@gmail.com)

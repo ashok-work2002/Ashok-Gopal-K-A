@@ -30,5 +30,5 @@ experience and knowledge in the field of Internet of Things (IoT).
 
 ## Contact :closed_book: 
 *   ✉️   [ashokgopal2002@gmail.com](mailto:ashokgopal2002@gmail.com)
-*   https://www.linkedin.com/in/ashok-gopal/
+*   https://www.linkedin.com/in/ashok-gopal/ LinkedIn Logo
 *   :mobile_phone: phone: 7356076943

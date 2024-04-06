@@ -16,7 +16,7 @@ I'm passionate about coding, learning and exploring new web technologies. Consta
 - Photoshop
   
 ## Projects
-### Temperature Regulated Fan :radioactive:
+### Temperature Regulated Fan with web app control :radioactive:
 - This project is designed to create an intelligent temperature-regulated fan system that controls the fan speed
 according to the room temperature along with a web application for user control and
 data storage in a database.
